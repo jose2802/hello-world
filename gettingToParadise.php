@@ -117,7 +117,7 @@
                             </small>
                         </div>
                         <div class="col-12 mt-1">
-                            <p class="text-justify customp"><?php _e(' The facility fee is only $3 USD. There is a $18 USD fee only if you decide to use our 10ft water slide, a Jungle Joe floating multi-tiered climing structure, the Rockit circular water rocket, snorkeling gear, kayaks, beach floats, trampoline, iceberg, coconut tree climb and bungee trampoline jump. The $18 USD / person fee is good for the whole day and covers all the toys mentioned.', 'paradise-beach'); ?></p>
+                            <p class="text-justify customp"><?php _e('The facility fee is only $3 USD. There is a $18 USD fee only if you decide to use our 10ft water slide, a Jungle Joe floating multi-tiered climing structure, the Rockit circular water rocket, snorkeling gear, kayaks, beach floats, trampoline, iceberg, coconut tree climb and bungee trampoline jump. The $18 USD / person fee is good for the whole day and covers all the toys mentioned.', 'paradise-beach'); ?></p>
                         </div>
                     </div>
                 </div>
@@ -149,8 +149,7 @@
                             </small>
                         </div>
                         <div class="col-12 mt-1">
-                            <p class="text-justify customp"><?php _e(' Yes, just like your home town bar or restaurant, we ask that you eat and/or drink while you are here ($10 minimum per person). It takes money to maintain such a clean and beautiful Beach Club with all these
-                                amenities! Kids under 6, however, are exempt from this policy.', 'paradise-beach'); ?></p>
+                            <p class="text-justify customp"><?php _e(' Yes, just like your home town bar or restaurant, we ask that you eat and/or drink while you are here ($10 minimum per person). It takes money to maintain such a clean and beautiful Beach Club with all these amenities! Kids under 6, however, are exempt from this policy.', 'paradise-beach'); ?></p>
                         </div>
                     </div>
                 </div>
@@ -166,12 +165,7 @@
                             </small>
                         </div>
                         <div class="col-12 mt-1">
-                            <p class="text-justify customp"><?php _e('Yes, the $18 USD per day per person fee allows
-                                you to use the beach floats, kayaks, trampoline,
-                                rock climbing iceberg, snorkeling gear, coconut
-                                tree climb, paddle boards and bungee trampoline jump.
-                                The $18 USD per person fee is good for the whole day
-                                and covers all of the toys mentioned.', 'paradise-beach'); ?></p>
+                            <p class="text-justify customp"><?php _e('Yes, the $18 USD per day per person fee allows you to use the beach floats, kayaks, trampoline, rock climbing iceberg, snorkeling gear, coconut tree climb, paddle boards and bungee trampoline jump. The $18 USD per person fee is good for the whole day and covers all of the toys mentioned.', 'paradise-beach'); ?></p>
                         </div>
                     </div>
                 </div>
@@ -219,11 +213,7 @@
                             </small>
                         </div>
                         <div class="col-12 mt-1">
-                            <p class="text-justify customp"><?php _e(' A taxi is the easiest way to get to Paradise Beach. T
-                                hey charge 14 or 15 usd, one way (PER TAXI, not person),
-                                for 1 to 4 passengers depending on which pier you are
-                                coming from. There are also taxi VANS that can hold up
-                                to 8 people and cost about US$30 each way (per VAN not per Person).', 'paradise-beach'); ?></p>
+                            <p class="text-justify customp"><?php _e(' A taxi is the easiest way to get to Paradise Beach. They charge 14 or 15 usd, one way (PER TAXI, not person), for 1 to 4 passengers depending on which pier you are coming from. There are also taxi VANS that can hold up to 8 people and cost about US$30 each way (per VAN not per Person).', 'paradise-beach'); ?></p>
                         </div>
                     </div>
                 </div>
@@ -241,8 +231,7 @@
                             </small>
                         </div>
                         <div class="col-12 mt-1">
-                            <p class="text-justify customp"><?php _e('Yes, we have lockers available for our visitors to rent. The cost is $4 USD for the day.', 'paradise-beach'); ?>
-                            </p>
+                            <p class="text-justify customp"><?php _e('Yes, we have lockers available for our visitors to rent. The cost is $4 USD for the day.', 'paradise-beach'); ?></p>
                         </div>
                     </div>
                 </div>
@@ -274,9 +263,7 @@
                             </small>
                         </div>
                         <div class="col-12 mt-1">
-                            <p class="text-justify customp"><?php _e('Yes, hair braiding, massage and temporary henna tattoos are available on site.', 'paradise-beach'); ?>
-
-                            </p>
+                            <p class="text-justify customp"><?php _e('Yes, hair braiding, massage and temporary henna tattoos are available on site.', 'paradise-beach'); ?></p>
                         </div>
                     </div>
                 </div>
@@ -292,11 +279,7 @@
                             </small>
                         </div>
                         <div class="col-12 mt-1">
-                            <p class="text-justify customp"><?php _e(' As Paradise Beach is a natural sand beach,
-                                coral heads are not found immediately offshore.
-                                There are usually fish to be found under the
-                                pier and rocky areas further out.', 'paradise-beach'); ?>
-                            </p>
+                            <p class="text-justify customp"><?php _e(' As Paradise Beach is a natural sand beach, coral heads are not found immediately offshore. There are usually fish to be found under the pier and rocky areas further out.', 'paradise-beach'); ?> </p>
                         </div>
                     </div>
                 </div>
@@ -328,8 +311,7 @@
                             </small>
                         </div>
                         <div class="col-12 mt-1">
-                            <p class="text-justify customp"><?php _e('Sorry no, Paradise Beach offers quality food and beverage a la carte', 'paradise-beach'); ?>
-                            </p>
+                            <p class="text-justify customp"><?php _e('Sorry no, Paradise Beach offers quality food and beverage a la carte', 'paradise-beach'); ?> </p>
                         </div>
                     </div>
                 </div>
@@ -348,8 +330,7 @@
                             </small>
                         </div>
                         <div class="col-12 mt-1">
-                            <p class="text-justify customp"><?php _e(' We open at 9 AM everyday and close at around 5 to 6 PM 365 days a year.', 'paradise-beach'); ?>
-                            </p>
+                            <p class="text-justify customp"><?php _e(' We open at 9 AM everyday and close at around 5 to 6 PM 365 days a year.', 'paradise-beach'); ?> </p>
                         </div>
                     </div>
                 </div>
@@ -365,8 +346,7 @@
                             </small>
                         </div>
                         <div class="col-12 mt-1">
-                            <p class="text-justify customp"><?php _e('There is no need to book, first come, first served!', 'paradise-beach'); ?>
-                            </p>
+                            <p class="text-justify customp"><?php _e('There is no need to book, first come, first served!', 'paradise-beach'); ?> </p>
                         </div>
                     </div>
                 </div>
@@ -382,9 +362,7 @@
                             </small>
                         </div>
                         <div class="col-12 mt-1">
-                            <p class="text-justify customp"><?php _e(' Nope, our massages are first come, first served!!', 'paradise-beach'); ?>
-
-                            </p>
+                            <p class="text-justify customp"><?php _e(' Nope, our massages are first come, first served!!', 'paradise-beach'); ?> </p>
                         </div>
                     </div>
                 </div>
@@ -400,13 +378,7 @@
                             </small>
                         </div>
                         <div class="col-12 mt-1">
-                            <p class="text-justify customp"><?php _e('Yes. The optional $18 usd per day per person
-                                Fun-Pass fee allows you to use the snorkeling
-                                gear, beach floats, kayaks, trampoline, rock
-                                climbing iceberg, coconut tree climb, bungee
-                                trampoline jump and is good for the whole day
-                                and covers all of the toys mentioned.', 'paradise-beach'); ?>
-                            </p>
+                            <p class="text-justify customp"><?php _e('Yes. The optional $18 usd per day per person Fun-Pass fee allows you to use the snorkeling gear, beach floats, kayaks, trampoline, rock climbing iceberg, coconut tree climb, bungee trampoline jump and is good for the whole day and covers all of the toys mentioned.', 'paradise-beach'); ?> </p>
                         </div>
                     </div>
                 </div>
@@ -422,10 +394,7 @@
                             </small>
                         </div>
                         <div class="col-12 mt-1">
-                            <p class="text-justify customp"><?php _e(' Yes, there are plenty of parking spaces,
-                                or just avoid the hassle of driving and
-                                take a taxi directly from the cruise ship to Paradise Beach.', 'paradise-beach'); ?>
-                            </p>
+                            <p class="text-justify customp"><?php _e(' Yes, there are plenty of parking spaces, or just avoid the hassle of driving and take a taxi directly from the cruise ship to Paradise Beach.', 'paradise-beach'); ?></p>
                         </div>
                     </div>
                 </div>
@@ -441,9 +410,7 @@
                             </small>
                         </div>
                         <div class="col-12 mt-1">
-                            <p class="text-justify customp"><?php _e('  Kids love all the toys at Paradise Beach and the parents love the calm water for the REALLY little ones.', 'paradise-beach'); ?>
-
-                            </p>
+                            <p class="text-justify customp"><?php _e('  Kids love all the toys at Paradise Beach and the parents love the calm water for the REALLY little ones.', 'paradise-beach'); ?></p>
                         </div>
                     </div>
                 </div>
@@ -462,9 +429,7 @@
                             </small>
                         </div>
                         <div class="col-12 mt-1">
-                            <p class="text-justify customp"><?php _e('Kids love all the toys at Paradise Beach and the parents love the calm water for the REALLY little ones.', 'paradise-beach'); ?>
-
-                            </p>
+                            <p class="text-justify customp"><?php _e('Kids love all the toys at Paradise Beach and the parents love the calm water for the REALLY little ones.', 'paradise-beach'); ?></p>
                         </div>
                     </div>
                 </div>
@@ -480,9 +445,7 @@
                             </small>
                         </div>
                         <div class="col-12 mt-1">
-                            <p class="text-justify customp"><?php _e('Child must be at least 35 lbs. to enjoy the ride.', 'paradise-beach'); ?>
-
-                            </p>
+                            <p class="text-justify customp"><?php _e('Child must be at least 35 lbs. to enjoy the ride.', 'paradise-beach'); ?> </p>
                         </div>
                     </div>
                 </div>
@@ -498,9 +461,7 @@
                             </small>
                         </div>
                         <div class="col-12 mt-1">
-                            <p class="text-justify customp"><?php _e(' YES! Banana boat rides as well…have fun!', 'paradise-beach'); ?>
-
-                            </p>
+                            <p class="text-justify customp"><?php _e(' YES! Banana boat rides as well…have fun!', 'paradise-beach'); ?> </p>
                         </div>
                     </div>
                 </div>
@@ -516,9 +477,7 @@
                             </small>
                         </div>
                         <div class="col-12 mt-1">
-                            <p class="text-justify customp"><?php _e('Yes, of course!', 'paradise-beach'); ?>
-
-                            </p>
+                            <p class="text-justify customp"><?php _e('Yes, of course!', 'paradise-beach'); ?> </p>
                         </div>
                     </div>
                 </div>
@@ -534,8 +493,7 @@
                             </small>
                         </div>
                         <div class="col-12 mt-1">
-                            <p class="text-justify customp"><?php _e(' Paradise Beach is open 365 days a year. We only close for weather if conditions become unsafe for our guests.', 'paradise-beach'); ?>
-                            </p>
+                            <p class="text-justify customp"><?php _e(' Paradise Beach is open 365 days a year. We only close for weather if conditions become unsafe for our guests.', 'paradise-beach'); ?></p>
                         </div>
                     </div>
                 </div>
@@ -551,8 +509,7 @@
                             </small>
                         </div>
                         <div class="col-12 mt-1">
-                            <p class="text-justify customp"><?php _e('  Paradise Beach is 350 feet of beach front property, and has Cozumel’s largest heated pool, plus restaurants, bars, shopping, and all our Fun Pass toys.', 'paradise-beach'); ?>
-                            </p>
+                            <p class="text-justify customp"><?php _e('  Paradise Beach is 350 feet of beach front property, and has Cozumel’s largest heated pool, plus restaurants, bars, shopping, and all our Fun Pass toys.', 'paradise-beach'); ?></p>
                         </div>
                     </div>
                 </div>
@@ -568,8 +525,7 @@
                             </small>
                         </div>
                         <div class="col-12 mt-1">
-                            <p class="text-justify customp"><?php _e('Towels are available for sale, but we do not rent them. Please bring towels from your cruise ship or hotel. ', 'paradise-beach'); ?>
-                            </p>
+                            <p class="text-justify customp"><?php _e('Towels are available for sale, but we do not rent them. Please bring towels from your cruise ship or hotel. ', 'paradise-beach'); ?></p>
                         </div>
                     </div>
                 </div>
